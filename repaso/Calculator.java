@@ -1,0 +1,17 @@
+package repaso;
+
+public class Calculator {
+//	public int i = 23;
+	
+	public static final double PI = 3.14;
+	
+	public static float modulus(float num1, int num2) {
+		return num1 % num2;
+	}
+	public static int sum(int num1, int num2) {
+		return num1 + num2;
+	}
+	public static double division(double num1, double num2) {
+		return num1 / num2;
+	}
+}
